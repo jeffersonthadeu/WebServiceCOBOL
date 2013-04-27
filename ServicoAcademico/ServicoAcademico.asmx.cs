@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -104,7 +104,7 @@ namespace PadroesProjeto
                 "        <Nome>PROCESSO DE DESENVOLVIMENTO DE SOFTWARE</Nome>" +
                 "        <Nota>56</Nota>" +
                 "    </Disciplina>" + 
-                "</FahrenheitToCelsius>";
+                "</ConsultaNota>";
 
             #endregion
 
